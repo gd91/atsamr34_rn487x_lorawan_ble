@@ -100,21 +100,27 @@ The USB ports powers the board.
 
 This demo requires:
 - Microchip Bluetooth Data (MBD) Apps for mobile
+</br>
 For Google device: https://play.google.com/store/apps/details?id=com.microchip.bluetooth.data&hl=en
+</br>
 For Apple device: https://apps.apple.com/us/app/microchip-bluetooth-data/id1319166097
+</br>
 - Microchip Bluetooth Smart Data
+</br>
 For Apple device: https://apps.apple.com/fr/app/bluetooth-smart-data/id1004033562
+</br>
 or
 - BLE Terminal
+</br>
 For Google device: https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en
+</br>
 For Apple device: https://apps.apple.com/fr/app/ble-terminal-hm-10/id1398703795
-
+</br>
 This demo is using QRbot apps to scan a QR code. This QRcode contains the LoRaWAN provisioning information.
-
+</br>
 QRbot is available for Google device: https://play.google.com/store/apps/details?id=net.qrbot&hl=en
+</br>
 QRbot is available for Apple device: https://apps.apple.com/cy/app/qrbot/id1048473097
-![](Doc/QRbot_AppleStore.png)
-
 
 ## TTN Provisioning
 
