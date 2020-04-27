@@ -104,7 +104,6 @@ https://apps.apple.com/us/app/microchip-bluetooth-data/id1319166097</br>
 
 Microchip Bluetooth Smart Data</br>
 https://apps.apple.com/fr/app/bluetooth-smart-data/id1004033562</br>
-
 or
 </br>
 BLE Terminal:</br>
